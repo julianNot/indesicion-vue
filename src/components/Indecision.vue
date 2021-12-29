@@ -21,7 +21,7 @@ export default {
         return {
             question : "",
             answer : "",
-            image : "@/assets/logo.png"
+            image : "https://www.inlinefs.com/wp-content/uploads/2020/04/placeholder.png"
         }
 
     },
